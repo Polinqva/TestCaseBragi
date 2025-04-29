@@ -1,0 +1,6 @@
+framework module Pods_TestCaseBragi_TestCaseBragiUITests {
+  umbrella header "Pods-TestCaseBragi-TestCaseBragiUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
